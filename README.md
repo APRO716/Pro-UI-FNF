@@ -7,11 +7,11 @@ UI for FNF Base Game
 
 
 # Feature
--Real Time Judgement Counter with color too! (Combo, Max Combo, Sick Good Bad Shit Miss & Combobreak)
--Disable notesplash, hold cover splash
--Accuracy Clear as same as FNF calculation
--Move Score (& Accuracy clear) to Bottom Left
--Laneunderlay & Center note (credit to KadeDev :>)
+1. Real Time Judgement Counter with color too! (Combo, Max Combo, Sick Good Bad Shit Miss & Combobreak)
+2. Disable notesplash, hold cover splash
+3. Accuracy Clear as same as FNF calculation
+4. Move Score (& Accuracy clear) to Bottom Left
+5. Laneunderlay & Center note (credit to KadeDev :>)
 
 # How to Install
 1. Create "mods" folder in FNF directory
