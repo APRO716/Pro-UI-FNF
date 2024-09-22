@@ -10,7 +10,8 @@ UI for FNF Base Game
 2. Disable notesplash, hold cover splash but can be enable in script if u want :3
 3. Accuracy Clear as same as FNF calculation
 4. Move Score (& Accuracy clear) to Bottom Left
-5. Laneunderlay & Center note (credit to KadeDev :>)
+5. Stop Desaturate Bad & Shit note hit (annoying ngl)
+6. Laneunderlay & Center note (credit to KadeDev :>)
 
 # How to Install
 1. Create "mods" folder in FNF directory
